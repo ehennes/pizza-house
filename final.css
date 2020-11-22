@@ -1,0 +1,32 @@
+body {
+  font-family: 'Atma', serif;
+  background-size: contain;
+  text-align: center;
+}
+
+h1:first-child {
+  font-size: 80px;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+h1:nth-child(2) {
+  font-family: 'Atma', serif;
+  font-weight: 700;
+  font-size: 35px;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Atma', serif;
+  font-weight: 400;
+}
+
+#pepperoni, #meatballs, #mushrooms, #olives, #potato.pizza-sides, #hummus, #caesar.pizza-sides, #garden.pizza-sides, #soda, #juice, #water {
+  padding-left: 20px;
+}
+
+#save-button, #submit-button {
+  height:50px;
+  width: 200px;
+}
